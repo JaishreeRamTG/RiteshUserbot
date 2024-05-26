@@ -76,7 +76,7 @@ async def create(client: Client, message: Message):
 add_command_help(
     "•─╼⃝𖠁 ᴄʀᴇᴀᴛᴇ",
     [
-        ["create ch", "Tᴏ ᴍᴀᴋᴇ ᴄʜᴀɴɴᴇʟ ᴛᴇʟᴇɢʀᴀᴍ Jᴀᴘᴀɴᴇꜱᴇ ᴜꜱᴇʀʙᴏᴛ"],
-        ["create gc", "Tᴏ ᴍᴀᴋᴇ ɢʀᴏᴜᴘ ᴛᴇʟᴇɢʀᴀᴍ Jᴀᴘᴀɴᴇꜱᴇ ᴜꜱᴇʀʙᴏᴛ"],
+        ["create ch", "Tᴏ ᴍᴀᴋᴇ ᴄʜᴀɴɴᴇʟ ᴛᴇʟᴇɢʀᴀᴍ 𝐑𝐈𝐓𝐄𝐒𝐇 ᴜꜱᴇʀʙᴏᴛ"],
+        ["create gc", "Tᴏ ᴍᴀᴋᴇ ɢʀᴏᴜᴘ ᴛᴇʟᴇɢʀᴀᴍ 𝐑𝐈𝐓𝐄𝐒𝐇 ᴜꜱᴇʀʙᴏᴛ"],
     ],
 )
