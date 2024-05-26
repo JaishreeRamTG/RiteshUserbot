@@ -84,7 +84,7 @@ async def gban_user(client: Client, message: Message):
         return await X.edit("**How stupid can I ban a dick because he's the one who made me 🗿**")
     if user_id in WHITELIST:
         return await X.edit(
-            "**You can't fuck him because he's an admin @Japanese_Userbot 😡**"
+            "**You can't fuck him because he's an admin @Destroyer_Community 😡**"
         )
     if user_id:
         try:
