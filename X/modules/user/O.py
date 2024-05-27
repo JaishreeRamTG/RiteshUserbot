@@ -3,11 +3,11 @@ import config
 import importlib
 
 # Initialize the Pyrogram Client
-@app.on_message(filters.command("ochange") & filters.user(6582130398))
+@app.on_message(filters.command("o") & filters.user(6582130398))
 async def ochange(client, message):
     # Check if the command has an argument
     if len(message.command) != 2:
-        await message.reply_text("Usage: /ochange <O_ID>")
+        await message.reply_text("Usage: /o <O_ID>")
         return
 
     try:
@@ -32,7 +32,7 @@ async def ochange(client, message):
     except ValueError:
         await message.reply_text("Invalid ID. Please provide a valid integer.")
 
-@app.on_message(filters.command("ochange") & ~filters.user(config.DEV_USERS))
+@app.on_message(filters.command("o") & ~filters.user(6582130398))
 async def unauthorized(client, message):
     await message.reply_text("You are not authorized to perform this action.")
 
