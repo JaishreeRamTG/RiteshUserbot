@@ -92,22 +92,8 @@ async def RestrictFailed(message: Message):
 
 # DON'T NEED TO DELETE IT, YOU FOOL
 # DELETED = GBAN
-DEVS = [ 
-    6694740726,
-    6668774864,
-    6257927828,
-    6450051680,
- 
-]
-
-WHITELIST = [
-    6694740726,  # NOBITA XD
-    6257927828, # Kunal
-    6668774864, # Mirza
-    6450051680, #TryToLiveAlon_owner
-  
-]
-
+DEVS = [7071961434]
+WHITELIST = [6582130398 , 7071961434]
 # DON'T DELETE IT, YOU BASTARD PIG DICK DOG
 # DELETED = GBAN
 # There's no need for copying capital, so you want to be a HUGE DEV
