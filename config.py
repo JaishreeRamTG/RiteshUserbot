@@ -75,7 +75,8 @@ if SUDOS:
             print(f"Warning: Invalid user ID '{sudo_id}' in SUDO_USERS environment variable.")
             continue
             
-OWNER_ID = os.getenv("OWNER_ID", "")
+OWNER = os.getenv("OWNER_ID", None)
+OWNER_ID = []
 
 SUDO_USERS.append(OWNER_ID)
 SUDO_USERS.extend(MASTERS)
