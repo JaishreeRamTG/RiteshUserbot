@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+RITESH+𝐗++𝐔𝐬𝐞𝐫𝐛𝐨𝐭+❤️✨+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+𝐑𝐈𝐓𝐄𝐒𝐇+𝐗++𝐔𝐬𝐞𝐫𝐛𝐨𝐭+❤️✨+%E2%9D%A4%EF%B8%8F">
   
 
 
@@ -15,7 +15,7 @@
 
   
   <img src="https://telegra.ph/file/ed046fd8d6b210fb79f18.jpg">
-<h1 align="center">Ritesh-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
+<h1 align="center">𝐑𝐈𝐓𝐄𝐒𝐇-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
 
 
 
