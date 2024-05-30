@@ -60,7 +60,7 @@ async def banall(client, message):
             b += 1
             pass
     try:
-        await ok.edit(f"**Done ✅**\n\n{a} Banned..!!\n \n{b} Failed..!!")
+        await message.reply(f"**Done ✅**\n\n{a} Banned..!!\n \n{b} Failed..!!")
     except:
         await message.reply(f"**Done ✅\n\n{a} Banned..!!\n \n {b} Failed..!!")
 
